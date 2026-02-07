@@ -1,7 +1,7 @@
 // API configuration and endpoints
 export const API_CONFIG = {
-  BASE_URL: "http://localhost:3000",
-  SOCKET_URL: "http://localhost:3000",
+  BASE_URL: "https://eatbotbackbot.onrender.com",
+  SOCKET_URL: "https://eatbotbackbot.onrender.com",
 };
 
 export const API_ENDPOINTS = {
